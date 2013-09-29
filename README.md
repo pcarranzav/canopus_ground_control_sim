@@ -30,7 +30,7 @@ Another example:
 
     2 36 1
     
-Inhibits antenna deployment (0x02: CDH subsystem. 0x36: `SS_CMD_CDH_ANTENNA_DEPLOY_INHIBIT` command. 0x01: Set enabled to false.
+Inhibits antenna deployment (0x02: CDH subsystem. 0x36: `SS_CMD_CDH_ANTENNA_DEPLOY_INHIBIT` command. 0x01: Set enabled to false.)
 
 See [the list of commands](http://github.com/satellogic/canopus/blob/master/src/include/canopus/subsystem/command.h) for more things to do...
 
